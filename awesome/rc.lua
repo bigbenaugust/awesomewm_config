@@ -16,7 +16,7 @@ autorun = true
 autorunApps =
 {
    "pnmixer",
-   "nm-applet",
+   "wicd-gtk",
    "light-locker",
    "blueman-applet",
    "xfce4-power-manager"
